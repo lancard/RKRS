@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/kim-airport-rkrs-susaek/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132383003040000000
+    },
+    {
+      "path": "Scenery/airport-rkrs-susaek/kim-scenery/KIM-SUSAEK.bgl",
+      "size": 44796,
+      "date": 132914572819460713
+    },
+    {
+      "path": "Scenery/airport-rkrs-susaek/kim-scenery/RKRS-SHAPES.bgl",
+      "size": 390,
+      "date": 132914556691111172
+    }
+  ]
+}
